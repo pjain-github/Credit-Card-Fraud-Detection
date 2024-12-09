@@ -38,4 +38,4 @@ The final model selected is XGBoost trained on data balanced using SMOTE. The mo
 
 These metrics indicate a good balance between precision (correctly identifying fraudulent transactions) and recall (identifying most of the fraudulent transactions). This level of performance shows promise for detecting fraudulent credit card transactions effectively, minimizing false positives and negatives.
 
-## Dependencies
+**Note:** This project was developed in Google Colab and requires necessary library installations and authentication for Google Drive access.
